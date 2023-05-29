@@ -1,6 +1,3 @@
-Thanks for downloading this template!
-
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Name: shivam Garg
+Linkedin URL: https://www.linkedin.com/in/shivamgargg/
+Author: Shivam
